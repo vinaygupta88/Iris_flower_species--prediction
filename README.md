@@ -1,3 +1,2 @@
-# Iris_flower_species- prediction
- On the basis of there features (sepal length,width and petal length,width) predict the Iris flower species that may be (Iris-Setosa , Iris-versicolor, etc) By using Machine learnig.<br>
+# Iris_flower_species- prediction <br>
 Iris flower classification is a very popular machine learning project. The iris dataset contains three classes of flowers, Versicolor, Setosa, Virginica, and each class contains 4 features, ‘Sepal length’, ‘Sepal width’, ‘Petal length’, ‘Petal width’. The aim of the iris flower classification is to predict flowers based on their specific features.
